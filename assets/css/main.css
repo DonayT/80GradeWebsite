@@ -1311,7 +1311,6 @@ input, select, textarea {
 				height: 170px !important;
 				width: auto !important;
 				object-fit: contain;
-				border-radius: 250%;
 				max-width: none !important;
 				max-height: none !important;
 			}
@@ -1474,7 +1473,6 @@ input, select, textarea {
 					height: 170px !important;
 					width: auto !important;
 					object-fit: contain;
-					border-radius: 250%;
 					max-width: none !important;
 					max-height: none !important;
 				}
