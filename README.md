@@ -4,9 +4,9 @@
 
 ---
 
-## Template Accreditation
+# Template Accreditation
 
-# Dimension - Professional Website Template
+## Dimension - Professional Website Template
 
 A modern, responsive single-page website template featuring modal-based navigation and elegant depth effects. Built with clean, semantic HTML5 and enhanced with modern CSS3 animations.
 
