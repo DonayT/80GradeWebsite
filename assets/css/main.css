@@ -1306,10 +1306,12 @@ input, select, textarea {
 			}
 
 			#header .logo img {
-				height: 60px;
-				width: auto;
+				height: 60px !important;
+				width: auto !important;
 				object-fit: contain;
 				border-radius: 100%;
+				max-width: none !important;
+				max-height: none !important;
 			}
 
 		#header .content {
@@ -1464,10 +1466,12 @@ input, select, textarea {
 				}
 
 				#header .logo img {
-					height: 60px;
-					width: auto;
+					height: 60px !important;
+					width: auto !important;
 					object-fit: contain;
 					border-radius: 100%;
+					max-width: none !important;
+					max-height: none !important;
 				}
 
 			#header .content .inner {
